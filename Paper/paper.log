@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.9)  24 FEB 2022 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.9)  24 FEB 2022 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -251,23 +251,27 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count198
 \l__pdf_internal_box=\box49
 )
-(./paper.aux)
+(./paper.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -292,97 +296,97 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Underfull \hbox (badness 4266) in paragraph at lines 67--80
+Underfull \hbox (badness 4266) in paragraph at lines 66--79
 []\OT1/ptm/m/n/10 Based on re-ports from WHO, the es-ti-mated count
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 67--80
+Underfull \hbox (badness 1803) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 of vi-su-ally im-paired in-di-vid-u-als in In-dia is around 62
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 67--80
+Underfull \hbox (badness 2469) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 with mul-ti-ple sen-sors con-nected to an Ar-duino board.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 4013) in paragraph at lines 67--80
+Underfull \hbox (badness 4013) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 The pro-posed sys-tem op-er-ates in two modes namely
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 6859) in paragraph at lines 67--80
+Underfull \hbox (badness 6859) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 [4].Survey on as-sis-tance sys-tems and Nav-i-ga-tion for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 67--80
+Underfull \hbox (badness 3826) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 A sur-vey pa-per to un-der-stand the most re-li-able and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 67--80
+Underfull \hbox (badness 3189) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 [5].A Stereo Vi-sion Sys-tem for Pedes-trian Nav-i-ga-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 67--80
+Underfull \hbox (badness 3364) in paragraph at lines 66--79
 \OT1/ptm/m/n/10 [6].A sys-tem for re-mote sighted guid-ance of vi-su-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 66--79
 
  []
 
@@ -390,44 +394,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--80
 
 
 ]
-Underfull \hbox (badness 1902) in paragraph at lines 83--84
-\OT1/ptm/m/n/10 to cater to vi-su-ally im-paired in-di-vid-u-als in the In-dian
-
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 83--84
-\OT1/ptm/m/n/10 right chem-i-cal com-po-si-tion and spec-i-fi-ca-tions should b
-e
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 156
+<blender-camera.jpeg, id=10, 727.71875pt x 658.46pt>
+File: blender-camera.jpeg Graphic file (type jpg)
+<use blender-camera.jpeg>
+Package pdftex.def Info: blender-camera.jpeg  used on input line 88.
+(pdftex.def)             Requested size: 181.92923pt x 164.6146pt.
+ [2 <./blender-camera.jpeg>]
+<blockdiagram.jpeg, id=14, 684.5575pt x 514.92375pt>
+File: blockdiagram.jpeg Graphic file (type jpg)
+<use blockdiagram.jpeg>
+Package pdftex.def Info: blockdiagram.jpeg  used on input line 97.
+(pdftex.def)             Requested size: 273.81815pt x 205.96585pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 108
 .
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 156
+LaTeX Font Info:    Trying to load font information for U+msb on input line 108
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-56.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 2671) in paragraph at lines 156--157
-\OT1/ptm/m/n/10 high-est performance-per-watt fab-ric, transceiver line
- []
-
-[2]
+) (./paper.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -439,25 +427,28 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./paper.aux) ) 
+[3 <./blockdiagram.jpeg>] (./paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3834 strings out of 483107
- 54837 string characters out of 5964631
- 301568 words of memory out of 5000000
- 18836 multiletter control sequences out of 15000+600000
- 563718 words of font info for 81 fonts, out of 8000000 for 9000
+ 3829 strings out of 483107
+ 54787 string characters out of 5964631
+ 301618 words of memory out of 5000000
+ 18829 multiletter control sequences out of 15000+600000
+ 563404 words of font info for 80 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 30i,8n,37p,2446b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on paper.pdf (3 pages, 69447 bytes).
+ 30i,8n,37p,2444b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper.pdf (3 pages, 148515 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
